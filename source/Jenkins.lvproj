@@ -42,7 +42,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C0E4C7DE-677E-4E4C-8694-8E45950D4FA5}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{BBD10B8D-8312-4F61-B13E-70D61CC85F4D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
